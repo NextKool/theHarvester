@@ -102,7 +102,9 @@ Active:
 
 Modules that require an API key:
 --------------------------------
-Documentation to setup API keys can be found at - https://github.com/NextKool/theHarvester/wiki/Installation#api-keys
+If you wish to use api keys make sure to edit api-keys.yaml
+-----------------------------------------------------------
+The api-keys.yml file if installed using the setup.py or in kali are under /etc/theHarvester else it is in the root directory if you have git cloned.
 
 * binaryedge - not free
 * bing
