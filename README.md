@@ -122,7 +122,15 @@ Documentation to setup API keys can be found at - https://github.com/NextKool/th
 Install and dependencies:
 -------------------------
 * Python 3.7+
-* https://github.com/NextKool/theHarvester/wiki/Installation
+* git clone https://github.com/NextKool/theHarvester 
+* cd theHarvester
+
+* If developing do:
+*   python3 -m pip install -r requirements/dev.txt
+* Else:
+*   python3 -m pip install -r requirements/base.txt
+
+* python3 theHarvester.py -h  
 
 
 Comments, bugs, and requests:
