@@ -123,7 +123,8 @@ Install and dependencies:
 -------------------------
 * Python 3.7+
 
-´´´git clone https://github.com/NextKool/theHarvester 
+´´´text
+git clone https://github.com/NextKool/theHarvester 
 cd theHarvester
 
 If developing do:
