@@ -123,16 +123,15 @@ Install and dependencies:
 -------------------------
 * Python 3.7+
 
-´´´
-* git clone https://github.com/NextKool/theHarvester 
-* cd theHarvester
+´´´git clone https://github.com/NextKool/theHarvester 
+cd theHarvester
 
-* If developing do:
-*   python3 -m pip install -r requirements/dev.txt
-* Else:
-*   python3 -m pip install -r requirements/base.txt
+If developing do:
+  python3 -m pip install -r requirements/dev.txt
+Else:
+  python3 -m pip install -r requirements/base.txt
 
-* python3 theHarvester.py -h  
+ python3 theHarvester.py -h  
 ´´´
 
 Comments, bugs, and requests:
